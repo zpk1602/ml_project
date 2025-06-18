@@ -16,7 +16,11 @@ To do that, I’ll be combining data analysis with machine learning. Once I’ve
 I want to figure out if games have actually changed in a meaningful way, or if it's just nostalgia talking. I'll be looking at three datasets that each give a different angle on the question.
 
 ### 1. Popular Video Games (1980-2023)
-Look at review scores, genre trends, and platform shifts. Try predicting scores based on release year, genre, and platform.
+Focus on review scores first. Look at how they've changed over time and what affects them. Try to predict scores based on:
+- Genre
+- Release year
+- Written reviews
+- Publisher or Franchise
 
 ### 2. Video Game Sales
 Check what kinds of games sold well. Build a model to predict high or low sales using features like platform, genre, and score.
